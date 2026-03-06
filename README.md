@@ -5,7 +5,7 @@ STEP 1 — Install Python
   Download and install Python 3
   CHECK the box "Add Python to PATH" during install
 
-STEP 2 — Open this folder in VS Code
+STEP 2 — dowload the zip and unzip then Open this folder in VS Code
   Right click the project folder on your Desktop
   Select "Open with Code"
 
